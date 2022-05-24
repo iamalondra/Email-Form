@@ -1,0 +1,31 @@
+body {
+    padding: 10px;
+
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+
+  .button{
+    border: none;
+    color: #000;
+    padding: 8px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+
+
+
+
+
+
+
+
